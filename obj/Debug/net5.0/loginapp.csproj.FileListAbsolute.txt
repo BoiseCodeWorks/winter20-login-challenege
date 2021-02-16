@@ -1,0 +1,16 @@
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\loginapp.exe
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\loginapp.deps.json
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\loginapp.runtimeconfig.json
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\loginapp.runtimeconfig.dev.json
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\loginapp.dll
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\ref\loginapp.dll
+C:\source\codeworks\winter2020\csharp\loginapp\bin\Debug\net5.0\loginapp.pdb
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.csprojAssemblyReference.cache
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.AssemblyInfoInputs.cache
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.AssemblyInfo.cs
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.csproj.CoreCompileInputs.cache
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.dll
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\ref\loginapp.dll
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.pdb
+C:\source\codeworks\winter2020\csharp\loginapp\obj\Debug\net5.0\loginapp.genruntimeconfig.cache
